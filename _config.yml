@@ -20,8 +20,9 @@ author: Tianyu Zhang
 ###############################################
 
 navbar-links:
-  CV: "cv"
-  PROJECT: "aboutme"
+  CV: "aboutme"
+  PROJECT: "project"
+  Blog: "blog"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
