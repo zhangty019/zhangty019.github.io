@@ -20,7 +20,7 @@ author: Tianyu Zhang
 ###############################################
 
 navbar-links:
-  CV: "/myCV.pdf"
+  CV: "myCV.pdf"
   Project: "blog"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
