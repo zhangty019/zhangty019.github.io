@@ -9,8 +9,7 @@ subtitle: IEEE International Conference on Robotics and Automation (ICRA)
 author: Tianyu Zhang
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Robot-assisted 3D printing has drawn a lot of attention because of its capability to fabricate curved layers that are optimized according to different objectives. However, **the support generation algorithm based on a fixed printing direction for planar layers cannot be directly applied to curved layers** as the orientation of material accumulation is dynamically varied. In this project, we propose **a skeleton-based support generation method for robot-assisted 3D printing with curved layers**. The support is represented as an implicit solid so that the problems of numerical robustness can be effectively avoided. The effectiveness of our algorithm is verified on a dual-material printing platform that consists of a robotic arm and a newly designed dual-material extruder. Experiments have been successfully conducted on our system to fabricate a variety of freeform models.
 
 **Here is some bold text**
 
