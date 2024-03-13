@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
-author: Bill Smith
+title: Support Generation for Robot-Assisted 3D Printing with Curved Layers
+subtitle: IEEE International Conference on Robotics and Automation (ICRA)
+# gh-repo: daattali/beautiful-jekyll
+# gh-badge: [star, fork, follow]
+# tags: [test]
+# comments: true
+author: Tianyu Zhang
 ---
 
 {: .box-success}
