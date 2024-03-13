@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Support Generation for Robot-Assisted 3D Printing with Curved Layers
-subtitle: IEEE International Conference on Robotics and Automation (ICRA)
+subtitle: IEEE International Conference on Robotics and Automation (ICRA), London, UK
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # tags: [test]
@@ -9,7 +9,7 @@ subtitle: IEEE International Conference on Robotics and Automation (ICRA)
 author: Tianyu Zhang
 ---
 
-Robot-assisted 3D printing has drawn a lot of attention because of its capability to fabricate curved layers that are optimized according to different objectives. However, **the support generation algorithm based on a fixed printing direction for planar layers cannot be directly applied to curved layers** as the orientation of material accumulation is dynamically varied. In this project, we propose **a skeleton-based support generation method for robot-assisted 3D printing with curved layers**. The support is represented as an implicit solid so that the problems of numerical robustness can be effectively avoided. The effectiveness of our algorithm is verified on a dual-material printing platform that consists of a robotic arm and a newly designed dual-material extruder. Experiments have been successfully conducted on our system to fabricate a variety of freeform models.
+Robot-assisted 3D printing has drawn a lot of attention because of its capability to fabricate curved layers that are optimized according to different objectives. However, **the support generation algorithm based on a fixed printing direction for planar layers cannot be directly applied to curved layers** as the orientation of material accumulation is dynamically varied. In this project, we propose **a skeleton-based support generation method for robot-assisted 3D printing with curved layers**. 
 
 **Here is some bold text**
 
