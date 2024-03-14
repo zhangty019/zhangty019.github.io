@@ -3,7 +3,7 @@ layout: post
 title: Support Generation for Robot-Assisted 3D Printing with Curved Layers
 subtitle: IEEE International Conference on Robotics and Automation (ICRA), London, UK
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/curvedSupport/teaser.jpg
 share-img: /assets/img/path.jpg
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
