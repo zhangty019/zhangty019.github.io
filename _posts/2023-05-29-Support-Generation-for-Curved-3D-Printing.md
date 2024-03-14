@@ -12,85 +12,28 @@ thumbnail-img: /assets/img/curvedSupport/teaser.jpg
 author: Tianyu Zhang
 ---
 
-![printing_result](/assets/img/curvedSupport/printing_result.gif)
-![pipeline](/assets/img/curvedSupport/pipeline.jpg){: .mx-auto.d-block :}
-![hardware](/assets/img/curvedSupport/hardware.jpg){: .mx-auto.d-block :}
+
 
 Robot-assisted 3D printing has drawn a lot of attention because of its capability to fabricate curved layers that are optimized according to different objectives. However, **the support generation algorithm based on a fixed printing direction for planar layers cannot be directly applied to curved layers** as the orientation of material accumulation is dynamically varied. In this project, we propose **a skeleton-based support generation method for robot-assisted 3D printing with curved layers**. 
 
-**Here is some bold text**
+![printing_result](/assets/img/curvedSupport/printing_result.gif)
 
-## Here is a secondary heading
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+## Pipeline
+### Computational domain generation from support envelop hull;
+### Compatible curved support layers generation;
+### Tree-like support skeleton calculation;  
+### Implicit solid construction;
+### Support region extraction; 
 
-Here's a table:
+![pipeline](/assets/img/curvedSupport/pipeline.jpg){: .mx-auto.d-block :}
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+## Dual-material Robot-assisted 3D Printing System.
+### Filaments alternately pass through Y-shape structure.
 
-How about a yummy crepe?
+![hardware](/assets/img/curvedSupport/hardware.jpg){: .mx-auto.d-block :}
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
 
 If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
 
