@@ -16,17 +16,16 @@ Robot-assisted 3D printing has drawn a lot of attention because of its capabilit
 
 ![printing_result](/assets/img/curvedSupport/printing_result.gif)
 
-
-### Pipeline
-#### 1. Computational domain generation from support envelop hull;
-#### 2. Compatible curved support layers generation;
-#### 3. Tree-like support skeleton calculation;  
-#### 4. Implicit solid construction;
-#### 5. Support region extraction; 
+#### Pipeline
+##### 1. Computational domain generation from support envelop hull;
+##### 2. Compatible curved support layers generation;
+##### 3. Tree-like support skeleton calculation;  
+##### 4. Implicit solid construction;
+##### 5. Support region extraction; 
 
 ![pipeline](/assets/img/curvedSupport/pipeline.jpg){: .mx-auto.d-block :}
 
-## Dual-material Robot-assisted 3D Printing System.
-### Filaments alternately pass through Y-shape structure.
+#### Dual-material Robot-assisted 3D Printing System.
+##### Filaments alternately pass through Y-shape structure.
 
 ![hardware](/assets/img/curvedSupport/hardware.jpg){: .mx-auto.d-block :}
