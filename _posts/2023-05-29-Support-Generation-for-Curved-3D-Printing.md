@@ -19,20 +19,21 @@ Robot-assisted 3D printing has drawn a lot of attention because of its capabilit
 ![printing_result](/assets/img/curvedSupport/printing_result.gif)
 
 ##### Pipeline
-#### 1. Computational domain generation from support envelop hull;
-#### 2. Compatible curved support layers generation;
-#### 3. Tree-like support skeleton calculation;  
-#### 4. Implicit solid construction;
-#### 5. Support region extraction; 
+1. Computational domain generation from support envelop hull;
+2. Compatible curved support layers generation;
+3. Tree-like support skeleton calculation;  
+4. Implicit solid construction;
+5. Support region extraction; 
 
 ![pipeline](/assets/img/curvedSupport/pipeline.jpg){: .mx-auto.d-block :}
 
 ##### Dual-material Robot-assisted 3D Printing System.
-#### Filaments alternately pass through Y-shape structure.
+A **2-in-1** extruder is installed on the end-effector of the robot arm, different filaments can be controlled to pass through the Y-shape structure alternatively. A **router** is employed as the core of communication between
+the controller of UR5e, Duet3D, and the laptop PC.
 
 ![hardware](/assets/img/curvedSupport/hardware.jpg){: .mx-auto.d-block :}
 
 ##### Contact:
-#### Tianyu Zhang (tianyu.zhang-10@postgrad.manchester.ac.uk)
-#### Charlie C.L. Wang (changling.wang@manchester.ac.uk)
+Tianyu Zhang (tianyu.zhang-10@postgrad.manchester.ac.uk)
+Charlie C.L. Wang (changling.wang@manchester.ac.uk)
 
