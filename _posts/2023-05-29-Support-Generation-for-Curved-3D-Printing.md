@@ -35,3 +35,4 @@ the controller of UR5e, Duet3D, and the laptop PC.
 
 ##### Contact:
 Tianyu Zhang (tianyu.zhang-10@postgrad.manchester.ac.uk)
+Charlie C.L. Wang  (changling.wang@manchester.ac.uk)
