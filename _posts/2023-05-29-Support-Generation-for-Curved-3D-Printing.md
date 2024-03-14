@@ -12,12 +12,6 @@ thumbnail-img: /assets/img/curvedSupport/teaser.jpg
 author: Tianyu Zhang
 ---
 
-<div style='display: none'>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-<img src="/assets/img/curvedSupport/printing_result.gif" width="160" height="90" />
-</div>
-
-
 ![printing_result](/assets/img/curvedSupport/printing_result.gif)
 
 ![hardware](/assets/img/curvedSupport/hardware.jpg){: .mx-auto.d-block :}
