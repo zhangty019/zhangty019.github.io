@@ -30,6 +30,8 @@ Robot-assisted 3D printing has drawn a lot of attention because of its capabilit
 
 ![hardware](/assets/img/curvedSupport/hardware.jpg){: .mx-auto.d-block :}
 
+#### [Source Code](https://github.com/zhangty019/Support_Generation_for_Curved_RoboFDM) is available!
+
 #### Contact:
 ##### Tianyu Zhang (tianyu.zhang-10@postgrad.manchester.ac.uk)
 ##### Charlie C.L. Wang (changling.wang@manchester.ac.uk)
