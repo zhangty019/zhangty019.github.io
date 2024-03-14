@@ -34,5 +34,5 @@ the controller of UR5e, Duet3D, and the laptop PC.
 ![hardware](/assets/img/curvedSupport/hardware.jpg){: .mx-auto.d-block :}
 
 ##### Contact:
-Tianyu Zhang (tianyu.zhang-10@postgrad.manchester.ac.uk)
+Tianyu Zhang (tianyu.zhang-10@postgrad.manchester.ac.uk)  
 Charlie C.L. Wang  (changling.wang@manchester.ac.uk)
