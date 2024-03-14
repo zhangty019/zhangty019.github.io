@@ -29,3 +29,8 @@ Robot-assisted 3D printing has drawn a lot of attention because of its capabilit
 ##### Filaments alternately pass through Y-shape structure.
 
 ![hardware](/assets/img/curvedSupport/hardware.jpg){: .mx-auto.d-block :}
+
+#### Contact:
+##### Tianyu Zhang (tianyu.zhang-10@postgrad.manchester.ac.uk)
+##### Charlie C.L. Wang (changling.wang@manchester.ac.uk)
+
