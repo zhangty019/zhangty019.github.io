@@ -12,7 +12,9 @@ thumbnail-img: /assets/img/curvedSupport/teaser.jpg
 author: Tianyu Zhang
 ---
 
-Robot-assisted 3D printing has drawn a lot of attention because of its capability to fabricate curved layers that are optimized according to different objectives. However, **the support generation algorithm based on a fixed printing direction for planar layers cannot be directly applied to curved layers** as the orientation of material accumulation is dynamically varied. In this project, we propose **a skeleton-based support generation method for robot-assisted 3D printing with curved layers**. [Source Code](https://github.com/zhangty019/Support_Generation_for_Curved_RoboFDM) is available!
+Robot-assisted 3D printing has drawn a lot of attention because of its capability to fabricate curved layers that are optimized according to different objectives. However, **the support generation algorithm based on a fixed printing direction for planar layers cannot be directly applied to curved layers** as the orientation of material accumulation is dynamically varied. In this project, we propose **a skeleton-based support generation method for robot-assisted 3D printing with curved layers**. 
+
+##### [Source Code](https://github.com/zhangty019/Support_Generation_for_Curved_RoboFDM) is available!
 
 ![printing_result](/assets/img/curvedSupport/printing_result.gif)
 
