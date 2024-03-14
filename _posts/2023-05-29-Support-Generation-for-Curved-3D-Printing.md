@@ -18,7 +18,7 @@ Robot-assisted 3D printing has drawn a lot of attention because of its capabilit
 
 ![printing_result](/assets/img/curvedSupport/printing_result.gif)
 
-##### Pipeline
+##### Pipeline for curved support generation
 1. Computational domain generation from support envelop hull;
 2. Compatible curved support layers generation;
 3. Tree-like support skeleton calculation;  
@@ -27,7 +27,7 @@ Robot-assisted 3D printing has drawn a lot of attention because of its capabilit
 
 ![pipeline](/assets/img/curvedSupport/pipeline.jpg){: .mx-auto.d-block :}
 
-##### Dual-material Robot-assisted 3D Printing System.
+##### Dual-material Robot-assisted 3D Printing System
 A **2-in-1** extruder is installed on the end-effector of the robot arm, different filaments can be controlled to pass through the Y-shape structure alternatively. A **router** is employed as the core of communication between
 the controller of UR5e, Duet3D, and the laptop PC.
 
