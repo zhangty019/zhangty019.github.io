@@ -17,6 +17,7 @@ Full list of the publications can be accessed on [Google Scholar](https://schola
 2. **Zhang , T.,** Fang , G., Huang, Y., Dutta, N., Lefebvre, S., Kilic, Z.M. and Wang, C.C., 2022. S<sup>3</sup>-slicer: A general slicing framework for multi-axis 3D printing. ACM Transactions on Graphics (TOG), 41(6), pp.1-15. ([**Open-Sourced**](https://github.com/zhangty019/Support_Generation_for_Curved_RoboFDM)
 , [**Best Paper Award - SIGGRAPH Asia 2022 Technical Papers**](https://sa2022.siggraph.org/en/attend/award-winners/index.html#tp)})
 
-3. **Zhang , T.,** Chen, X., Fang, G., Tian, Y. and Wang, C.C., 2021. Singularity-aware motion planning for multi-axis additive manufacturing. IEEE Robotics and Automation Letters (RAL), 6(4), pp.6172-6179. \textbf{[Open-Sourced] [Finalist of Best Student Paper Award]}
+3. **Zhang , T.,** Chen, X., Fang, G., Tian, Y. and Wang, C.C., 2021. Singularity-aware motion planning for multi-axis additive manufacturing. IEEE Robotics and Automation Letters (RAL), 6(4), pp.6172-6179. ([**Open-Sourced**](https://github.com/zhangty019/Support_Generation_for_Curved_RoboFDM)
+, [**Finalist of Best Student Paper Award - SIGGRAPH Asia 2022 Technical Papers**](https://case2021.sciencesconf.org/resource/page/id/37)})
 
-4. Dutta, N., **Zhang, T.,** Fang, G., Yigit, I.E. and Wang, C.C., 2023. Vector field based volume peeling for multi-axis machining. Journal of Computing and Information Science in Engineering (JCISE), pp.1-13. \textbf{[Best Paper Award]}
+5. Dutta, N., **Zhang, T.,** Fang, G., Yigit, I.E. and Wang, C.C., 2023. Vector field based volume peeling for multi-axis machining. Journal of Computing and Information Science in Engineering (JCISE), pp.1-13. \textbf{[Best Paper Award]}
