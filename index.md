@@ -8,3 +8,22 @@ I am a **postdoctoral researcher** in the Digital Manufacturing Lab at the Unive
 My main research topic is **Multi-axis Advance Manufacturing**. As a researcher in the field of advanced manufacturing, I've developed a computational pipeline to support additive and subtractive manufacturing especially the mesh-based curved fabrication which is composed of **volume decomposition**, **toolpath generation**, and **motion planning** which are fitting for different multi-axis machines, e.g. robot cell and CNC. 
 
 This fundamental structure of this pipeline is built and it is verified by research peers and industry collaborations. Now it is under intensive development and refinement. This pipeline enables the advanced fabrication cell to operate more smartly and efficiently in manufacturing applications. The basic knowledge underpinning my research includes **optimization theory**, **geometric computing and processing**. 
+
+### Selected Publication​                     
+Full list of the publications can be accessed on [Google Scholar](https://scholar.google.com/citations?user=gH8GP8AAAAAJ&hl=en&oi=ao)
+
+1. **Zhang, T.,** Huang, Y., Kukulski P., Dutta, N., Fang, G., Wang, C.C., 2023. Support Generation for Robot-Assisted 3D Printing with Curved Layers. IEEE International Conference on Robotics and Automation (ICRA), pp.12338-12344. \textbf{[Open-Sourced]}
+
+\item \textbf{Zhang , T.,} Fang , G., Huang, Y., Dutta, N., Lefebvre, S., Kilic, Z.M. and Wang, C.C., 2022. $S^3$-slicer: A general slicing framework for multi-axis 3D printing. ACM Transactions on Graphics (TOG), 41(6), pp.1-15. \textbf{[Open-Sourced], [Best Paper Award]}
+
+\item \textbf{Zhang, T.,} Chen, X., Fang, G., Tian, Y. and Wang, C.C., 2021. Singularity-aware motion planning for multi-axis additive manufacturing. IEEE Robotics and Automation Letters (RAL), 6(4), pp.6172-6179. \textbf{[Open-Sourced] [Finalist of Best Student Paper Award]}
+
+\item Dutta, N., \textbf{Zhang, T.,} Fang, G., Yigit, I.E. and Wang, C.C., 2023. Vector field based volume peeling for multi-axis machining. Journal of Computing and Information Science in Engineering (JCISE), pp.1-13. \textbf{[Best Paper Award]}
+
+\item Fang, G., \textbf{Zhang, T.,} Huang, Y., Zhang, Z., Masania, K. and Wang, C.C., 2024. Exceptional mechanical performance by spatial printing with continuous fiber: Curved slicing, toolpath generation and physical verification. Additive Manufacturing (ADDMA), p.104048.
+
+\item Fang, G., \textbf{Zhang, T.,} Zhong, S., Chen, X., Zhong, Z. and Wang, C.C., 2020. Reinforced FDM: Multi-axis filament alignment with controlled anisotropic strength. ACM Transactions on Graphics (TOG), 39(6), pp.1-15.
+
+\item Huang , Y., Fang , G., \textbf{Zhang, T.,} and Wang, C.C., 2023. Turning-angle optimized printing path of continuous carbon fiber for cellular structures. Additive Manufacturing (ADDMA), 68, p.103501.
+
+\item Ren, M., Lu, W., Shao, Q., Han, F., Ouyang, W., \textbf{Zhang, T.,} Wang, C.C. and Chen, S.C., 2021. Aberration-free large-area stitch-free 3D nano-printing based on binary holography. Optics Express (OE), 29(26), pp.44250-44263.
