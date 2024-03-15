@@ -10,7 +10,7 @@ My main research topic is **Multi-axis Advance Manufacturing**. As a researcher 
 This fundamental structure of this pipeline is built and it is verified by research peers and industry collaborations. Now it is under intensive development and refinement. This pipeline enables the advanced fabrication cell to operate more smartly and efficiently in manufacturing applications. The basic knowledge underpinning my research includes **optimization theory**, **geometric computing and processing**. 
 
 ### Selected Publication​                     
-Full list of the publications can be accessed on [Google Scholar](https://scholar.google.com/citations?user=gH8GP8AAAAAJ&hl=en&oi=ao)
+Full list of the publications can be accessed on [**Google Scholar**](https://scholar.google.com/citations?user=gH8GP8AAAAAJ&hl=en&oi=ao)
 
 1. **Zhang, T.,** Huang, Y., Kukulski P., Dutta, N., Fang, G., Wang, C.C., 2023. Support Generation for Robot-Assisted 3D Printing with Curved Layers. IEEE International Conference on Robotics and Automation (**ICRA**), pp.12338-12344. ([**Open-Sourced**](https://github.com/zhangty019/Support_Generation_for_Curved_RoboFDM))
 
