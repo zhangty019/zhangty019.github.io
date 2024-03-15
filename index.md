@@ -14,7 +14,7 @@ Full list of the publications can be accessed on [Google Scholar](https://schola
 
 1. **Zhang, T.,** Huang, Y., Kukulski P., Dutta, N., Fang, G., Wang, C.C., 2023. Support Generation for Robot-Assisted 3D Printing with Curved Layers. IEEE International Conference on Robotics and Automation (**ICRA**), pp.12338-12344. ([**Open-Sourced**](https://github.com/zhangty019/Support_Generation_for_Curved_RoboFDM))
 
-2. Dutta, N., **Zhang, T.,** Fang, G., Yigit, I.E. and Wang, C.C., 2023. Vector field based volume peeling for multi-axis machining. Journal of Computing and Information Science in Engineering (**JCISE**), pp.1-13. (**Best Paper Award - ASME IDETC/CIE 2023 Conference**, [**open-Sourced**](https://neelotpal-d.github.io/VectorField_Multiaxis/),**First co-author**)
+2. Dutta, N., **Zhang, T.,** Fang, G., Yigit, I.E. and Wang, C.C., 2023. Vector field based volume peeling for multi-axis machining. Journal of Computing and Information Science in Engineering (**JCISE**), pp.1-13. (**Best Paper Award - ASME IDETC/CIE 2023 Conference**, [**Open-Sourced**](https://neelotpal-d.github.io/VectorField_Multiaxis/),**First co-author**)
 
 3. **Zhang , T.,** Fang , G., Huang, Y., Dutta, N., Lefebvre, S., Kilic, Z.M. and Wang, C.C., 2022. S<sup>3</sup>-slicer: A general slicing framework for multi-axis 3D printing. ACM Transactions on Graphics (**TOG**), 41(6), pp.1-15. ([**Open-Sourced**](https://github.com/zhangty019/Support_Generation_for_Curved_RoboFDM)
 , [**Best Paper Award - SIGGRAPH Asia 2022 Technical Papers**](https://sa2022.siggraph.org/en/attend/award-winners/index.html#tp)})
