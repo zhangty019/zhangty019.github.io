@@ -24,3 +24,12 @@ A full list of the publications can be accessed on [**Google Scholar**](https://
 4. **Zhang , T.,** Chen, X., Fang, G., Tian, Y. and Wang, C.C., 2021. Singularity-aware motion planning for multi-axis additive manufacturing. IEEE Robotics and Automation Letters (**RAL**), 6(4), pp.6172-6179. ([**Open-Sourced**](https://github.com/zhangty019/MultiAxis_3DP_MotionPlanning)
 , [**Finalist of Best Student Paper Award**](https://case2021.sciencesconf.org/resource/page/id/37))
 
+### Collaborative Projects​
+
+1. Vector-field guided tool-path planning for 3D printing with CCF (Broetje-Automation GmbH - Completed)
+2. [Toolpath algorithms for 5XCAM hybrid manufacturing](https://5axismaker.co.uk/5xcam?rq=5XCAM) (5AXISWORKS - Completed)
+3. Inverse kinematics and toolpath planning for V-REX (Venox - Ongoing)
+
+![Collaborative company](/assets/img/personalPage_teaser.gif)
+
+
