@@ -30,6 +30,4 @@ A full list of the publications can be accessed on [**Google Scholar**](https://
 2. [Toolpath algorithms for 5XCAM hybrid manufacturing](https://5axismaker.co.uk/5xcam?rq=5XCAM) (5AXISWORKS - Completed)
 3. Inverse kinematics and toolpath planning for V-REX (Venox - Ongoing)
 
-![Collaborative company](/assets/img/personalPage_teaser.gif)
-
 
