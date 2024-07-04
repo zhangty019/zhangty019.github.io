@@ -29,5 +29,6 @@ A full list of the publications can be accessed on [**Google Scholar**](https://
 1. [**Broetje-Automation GmbH**](https://broetje-automation.de/) - Vector-field guided tool-path planning for 3D printing with CCF (Completed)
 2. [**5axismaker**](https://5axismaker.co.uk/) - [Toolpath algorithms for 5XCAM hybrid manufacturing](https://5axismaker.co.uk/5xcam?rq=5XCAM) (Completed)
 3. [**Venox**](https://venox.systems/en) - Inverse kinematics and toolpath planning for V-REX (Ongoing)
+4. [**NCC(National Composites Centre)**](https://www.nccuk.com/) - Nonplanar Continuous Fibre AM (CFAM) design tool evaluation (Ongoing)
 
 
