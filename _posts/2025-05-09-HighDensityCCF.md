@@ -1,14 +1,8 @@
 ---
 layout: post
 title: A Breakthrough in High-Performance Composites: High-Density Toolpath Generation for Continuous Carbon Fiber 3D Printing
-subtitle:  Composites Part B: Engineering
-# cover-img: /assets/img/HighDensityCCF/teaser.jpg
+subtitle: Published in Composites Part B: Engineering (2023)
 thumbnail-img: /assets/img/HighDensityCCF/teaser.jpg
-# share-img: /assets/img/path.jpg
-# gh-repo: daattali/beautiful-jekyll
-# gh-badge: [star, fork, follow]
-# tags: [test]
-# comments: true
 author: Tianyu Zhang
 ---
 
@@ -65,5 +59,5 @@ This method enables more efficient and reliable 3D printing of CFRTPs—especial
 
 Further improvements will focus on real-time sensing and adaptive path control to push fiber performance even further.
 
-##### Contact:
+#### Contact:
 Tianyu Zhang (zhangty019@gmail.com) 
