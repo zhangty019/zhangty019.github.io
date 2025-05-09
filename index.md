@@ -30,7 +30,7 @@ A full list of the publications can be accessed on [**Google Scholar**](https://
 
 ### Collaborative Projects​
 
-1. [**Broetje-Automation GmbH**](https://broetje-automation.de/) - Vector-field guided tool-path planning for 3D printing with CCF (Completed)
+1. [**Broetje-Automation GmbH**](https://broetje-automation.de/) \& AirBus - Vector-field guided tool-path planning for 3D printing with CCF (Completed)
 2. [**5axismaker**](https://5axismaker.co.uk/) - [Toolpath algorithms for 5XCAM hybrid manufacturing](https://5axismaker.co.uk/5xcam?rq=5XCAM) (Completed)
 3. [**NCC(National Composites Centre)**](https://www.nccuk.com/) - Nonplanar Continuous Fibre AM (CFAM) design tool evaluation (Completed)
 
