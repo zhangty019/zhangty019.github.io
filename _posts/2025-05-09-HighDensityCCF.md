@@ -1,7 +1,7 @@
 ---
 layout: post
 title: High-Density Toolpath Generation for Continuous Carbon Fiber 3D Printing
-subtitle: Published in Composites Part B (2025)
+subtitle: Composites Part B
 thumbnail-img: /assets/img/HighDensityCCF/teaser.jpg
 author: Tianyu Zhang
 ---
