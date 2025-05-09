@@ -14,19 +14,19 @@ Technically, I work across **C++**, **Python**, and **ML libraries**, and have e
 ### Selected Publication​                     
 A full list of the publications can be accessed on [**Google Scholar**](https://scholar.google.com/citations?user=gH8GP8AAAAAJ&hl=en&oi=ao)
 
-1. **Zhang, T.,** Liu, T., Dutta, N., Chen, Y., Su, R., Zhang, Z., Wang, W. and Wang, C.C., 2025. [Toolpath generation for high density spatial fiber printing guided by principal stresses](https://www.sciencedirect.com/science/article/pii/S1359836825000447). Composites Part B: Engineering, p.112154. ([**Open-Sourced**](https://github.com/zhangty019/HighDensity_ToolpathGene4CFRTP))
+1. **Zhang, T.,** Liu, T., Dutta, N., Chen, Y., Su, R., Zhang, Z., Wang, W. and Wang, C.C., 2025. [Toolpath generation for high density spatial fiber printing guided by principal stresses](https://www.sciencedirect.com/science/article/pii/S1359836825000447). Composites Part B: Engineering, p.112154. ([**Open-Sourced**](https://github.com/zhangty019/HighDensity_ToolpathGene4CFRTP), [**Video**](https://www.youtube.com/watch?v=ylBgGtqyhDE))
 
-2. Liu, T., **Zhang, T.,** Chen, Y., Huang, Y. and Wang, C.C., 2024. [Neural Slicer for Multi-Axis 3D Printing](https://doi.org/10.1145/3658212).  ACM Transactions on Graphics (**TOG**), 43(4), pp. 1-15. (**First co-author**, [**Project page**](https://ryantaoliu.github.io/NeuralSlicer/))
+2. Liu, T., **Zhang, T.,** Chen, Y., Huang, Y. and Wang, C.C., 2024. [Neural Slicer for Multi-Axis 3D Printing](https://doi.org/10.1145/3658212).  ACM Transactions on Graphics (**TOG**), 43(4), pp. 1-15. (**First co-author**, [**Project page**](https://ryantaoliu.github.io/NeuralSlicer/), [**Video**](https://www.youtube.com/watch?v=LF1fRD7ygdE))
 
-3. **Zhang, T.,** Huang, Y., Kukulski P., Dutta, N., Fang, G., Wang, C.C., 2023. Support Generation for Robot-Assisted 3D Printing with Curved Layers. IEEE International Conference on Robotics and Automation (**ICRA**), pp.12338-12344. ([**Open-Sourced**](https://github.com/zhangty019/Support_Generation_for_Curved_RoboFDM))
+3. **Zhang, T.,** Huang, Y., Kukulski P., Dutta, N., Fang, G., Wang, C.C., 2023. Support Generation for Robot-Assisted 3D Printing with Curved Layers. IEEE International Conference on Robotics and Automation (**ICRA**), pp.12338-12344. ([**Open-Sourced**](https://github.com/zhangty019/Support_Generation_for_Curved_RoboFDM), [**Video**](https://www.youtube.com/watch?v=2ksoDs3OMwY))
 
-4. Dutta, N., **Zhang, T.,** Fang, G., Yigit, I.E. and Wang, C.C., 2023. Vector field based volume peeling for multi-axis machining. Journal of Computing and Information Science in Engineering (**JCISE**), pp.1-13. (**Best Paper Award - ASME IDETC/CIE 2023 Conference**, [**Open-Sourced**](https://neelotpal-d.github.io/VectorField_Multiaxis/), **First co-author**, [**Project page**](https://neelotpal-d.github.io/VectorField_Multiaxis/))
+4. Dutta, N., **Zhang, T.,** Fang, G., Yigit, I.E. and Wang, C.C., 2023. Vector field based volume peeling for multi-axis machining. Journal of Computing and Information Science in Engineering (**JCISE**), pp.1-13. (**Best Paper Award - ASME IDETC/CIE 2023 Conference**, [**Open-Sourced**](https://neelotpal-d.github.io/VectorField_Multiaxis/), **First co-author**, [**Project page**](https://neelotpal-d.github.io/VectorField_Multiaxis/), [**Video**](https://www.youtube.com/watch?v=Bzt2oe6YYh8))
 
 5. **Zhang , T.,** Fang , G., Huang, Y., Dutta, N., Lefebvre, S., Kilic, Z.M. and Wang, C.C., 2022. S<sup>3</sup>-slicer: A general slicing framework for multi-axis 3D printing. ACM Transactions on Graphics (**TOG**), 41(6), pp.1-15. ([**Open-Sourced**](https://github.com/zhangty019/S3_DeformFDM)
-, [**Best Paper Award - SIGGRAPH Asia 2022 Technical Papers**](https://sa2022.siggraph.org/en/attend/award-winners/index.html#tp))
+, [**Best Paper Award - SIGGRAPH Asia 2022 Technical Papers**](https://sa2022.siggraph.org/en/attend/award-winners/index.html#tp), [**Video**](https://www.youtube.com/watch?v=qNm1ierKuUk))
 
 6. **Zhang , T.,** Chen, X., Fang, G., Tian, Y. and Wang, C.C., 2021. Singularity-aware motion planning for multi-axis additive manufacturing. IEEE Robotics and Automation Letters (**RAL**), 6(4), pp.6172-6179. ([**Open-Sourced**](https://github.com/zhangty019/MultiAxis_3DP_MotionPlanning)
-, [**Finalist of Best Student Paper Award**](https://case2021.sciencesconf.org/resource/page/id/37))
+, [**Finalist of Best Student Paper Award**](https://case2021.sciencesconf.org/resource/page/id/37.html?lang=en), [**Video**](https://www.youtube.com/watch?v=fsE2KpLk7ZI))
 
 ### Collaborative Projects​
 
