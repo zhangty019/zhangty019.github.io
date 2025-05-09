@@ -26,4 +26,4 @@ Multi-axis additive manufacturing enables high flexibility of material depositio
 ![hardware](/assets/img/SingularityOpt/printing_video.gif)
 
 ##### Contact:
-Tianyu Zhang (tianyu.zhang-10@postgrad.manchester.ac.uk) 
+Tianyu Zhang (zhangty019@gmail.com) 
