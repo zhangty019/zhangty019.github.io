@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi, I'm Tianyu
-subtitle: 3D Geometry Processing, Computer-aided Design and Manufacturing, Toolpath Planning for Robot-Assisted Manufacturing, Machine learning-based optimization
+subtitle: 3D Geometry Processing, CAD/CAE/CAM, Toolpath Planning for Robot-Assisted Manufacturing, Machine learning-based optimization
 ---
 I am a **postdoctoral researcher** in the Digital Manufacturing Lab at the University of Manchester (**UoM**), where I also earned my PhD in Mechanical Engineering under the supervision of [Prof. Charlie C. L. Wang](https://mewangcl.github.io/) and [Dr. Zekai Murat Kilic](https://research.manchester.ac.uk/en/persons/zekaimurat.kilic). Prior to that, I completed my Master’s degree at Xi’an Jiaotong University (**XJTU**) and worked at Inovance Technology, Shenzhen. I received my ​B.Eng. degree in Mechanical Engineering from the University of Electronic Science and Technology of China (**UESTC**).
 
