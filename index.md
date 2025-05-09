@@ -3,13 +3,13 @@ layout: page
 title: Hi, I'm Tianyu
 subtitle: 3D Geometry Processing and Computational Design, Toolpath Planning for Robot-Assisted Manufacturing, Machine learning-based optimization
 ---
-I am a **postdoctoral researcher** in the Digital Manufacturing Lab at the University of Manchester (**UoM**). I earned my PhD degree from the same group at the UoM, supervised by [Prof. Charlie C. L. Wang](https://mewangcl.github.io/) and [Dr. Zekai Murat Kilic](https://research.manchester.ac.uk/en/persons/zekaimurat.kilic). My Master’s degree is from [Prof. Wanhua Zhao](https://gr.xjtu.edu.cn/web/whzhao)'s Machine Tool  Research Group at Xi’an Jiaotong University (**XJTU**) and further had 1 year of industry experience at Shenzhen Inovance Technology. I received my ​B.Eng. degree in Mechanical Engineering from the University of Electronic Science and Technology of China (**UESTC**).
+I am a **postdoctoral researcher** in the Digital Manufacturing Lab at the University of Manchester (**UoM**), where I also earned my PhD in Mechanical Engineering under the supervision of [Prof. Charlie C. L. Wang](https://mewangcl.github.io/) and [Dr. Zekai Murat Kilic](https://research.manchester.ac.uk/en/persons/zekaimurat.kilic). Prior to that, I completed my Master’s degree at Xi’an Jiaotong University (**XJTU**) and worked at Inovance Technology, Shenzhen. I received my ​B.Eng. degree in Mechanical Engineering from the University of Electronic Science and Technology of China (**UESTC**).
+
+My research lies at the intersection of **3D geometry processing**, **robot-assisted manufacturing**, and **machine learning-enhanced engineering pipelines**. I build robust software systems that transform complex geometric data into scalable, fabrication-aware workflows, especially for multi-axis 3D printing. These pipelines integrate **3D volume decomposition and slicing**, **toolpath generation**, and **kinematics planning**, and are validated through both peer-reviewed research and industrial collaboration.
+
+Technically, I work across **C++**, **Python**, and **ML libraries**, and have experience deploying research code in collaboration with partners such as **Airbus**, **NCC**, and **5AxisMaker**. I’m particularly interested in transforming advanced geometry algorithms into **product-grade, data-driven software tools** that empower design and manufacturing innovation.
 
 ![printing_result](/assets/img/personalPage_teaser.gif)
-
-My main research topic is **Multi-axis Advance Manufacturing**. As a researcher in the field of advanced manufacturing, I've developed a computational pipeline to support additive and subtractive manufacturing especially the mesh-based curved fabrication which is composed of **volume decomposition**, **toolpath generation**, and **motion planning** which are fitting for different multi-axis machines, e.g. robot cell and CNC. 
-
-This fundamental structure of this pipeline is built and it is verified by research peers and industry collaborations. Now it is under intensive development and refinement. This pipeline enables the advanced fabrication cell to operate more smartly and efficiently in manufacturing applications. The basic knowledge underpinning my research includes **optimization theory**, **geometric computing and processing**. 
 
 ### Selected Publication​                     
 A full list of the publications can be accessed on [**Google Scholar**](https://scholar.google.com/citations?user=gH8GP8AAAAAJ&hl=en&oi=ao)
@@ -30,7 +30,7 @@ A full list of the publications can be accessed on [**Google Scholar**](https://
 
 ### Collaborative Projects​
 
-1. [**Broetje-Automation GmbH**](https://broetje-automation.de/) \& AirBus - Vector-field guided tool-path planning for 3D printing with CCF (Completed)
+1. [**Broetje-Automation GmbH**](https://broetje-automation.de/) & **AirBus** - Vector-field guided tool-path planning for 3D printing with CCF (Completed)
 2. [**5axismaker**](https://5axismaker.co.uk/) - [Toolpath algorithms for 5XCAM hybrid manufacturing](https://5axismaker.co.uk/5xcam?rq=5XCAM) (Completed)
 3. [**NCC(National Composites Centre)**](https://www.nccuk.com/) - Nonplanar Continuous Fibre AM (CFAM) design tool evaluation (Completed)
 
