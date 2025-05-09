@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A Breakthrough in High-Performance Composites: High-Density Toolpath Generation for Continuous Carbon Fiber 3D Printing
-
 subtitle:  Composites Part B: Engineering
 # cover-img: /assets/img/HighDensityCCF/teaser.jpg
 thumbnail-img: /assets/img/HighDensityCCF/teaser.jpg
