@@ -28,6 +28,8 @@ These issues limit mechanical performance and print reliability.
 
 ----------
 ![pipeline](/assets/img/HighDensityCCF/bladeRst.jpg)
+In the blade structure under stress, the traditional method showed inconsistent fiber alignment and irregular spacing. Our method generated a smooth, dense, and stress-aligned fiber layout: (a, b) Principal stress field under loading; (c) Projection onto the curved surface, showing turbulence; (d) Smoothed direction field using 2-RoSy; (e) Periodic strip pattern with uniform spacing; (f1) Extracted fiber path from our method, compared to (f2) from baseline; (g) Final manufacturing path after constraint-based post-processing.
+
 #### Our Solution
 
 We developed a **stress-guided, high-density toolpath algorithm** with three key features:
