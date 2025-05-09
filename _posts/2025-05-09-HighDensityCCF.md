@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Breakthrough in High-Performance Composites: High-Density Toolpath Generation for Continuous Carbon Fiber 3D Printing
-subtitle: Published in Composites Part B: Engineering (2023)
+title: High-Density Toolpath Generation for Continuous Carbon Fiber 3D Printing
+subtitle: Published in Composites Part B (2025)
 thumbnail-img: /assets/img/HighDensityCCF/teaser.jpg
 author: Tianyu Zhang
 ---
